@@ -1,0 +1,2 @@
+# exerc2
+exeTIC
